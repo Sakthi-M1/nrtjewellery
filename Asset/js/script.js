@@ -7,7 +7,7 @@ const txtSearch = document.querySelector("#txtSearch");
 
 // Fetch product data from JSON file
 async function fetchProducts() {
-  const response = await fetch("public/Asset/js/product.json");
+  const response = await fetch("/Asset/js/product.json");
   const data = await response.json();
   initialize(data);
 }
@@ -27,7 +27,7 @@ function displayProducts(products) {
         (product) => `
       <div class="product" data-id="${product.id}">
       <div class="small-logo">
-          <img src="/public/Asset/images/nrt-pro.png" alt="Logo" class="logo-img" />
+          <img src="/Asset/images/nrt-pro.png" alt="Logo" class="logo-img" />
         </div>
         <div class="img">
           <img src="${product.img}" alt="${product.name}" />
@@ -221,7 +221,7 @@ const products = [];
 
 async function initializeProducts() {
   try {
-    const response = await fetch("public/Asset/js/product.json");
+    const response = await fetch("/Asset/js/product.json");
     const data = await response.json();
     products.push(...data);
 
