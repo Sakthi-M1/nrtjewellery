@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "22k Gold Bangle",
-    "img": "/Asset/images/22k-gold-b1.jpg",
+    "img": "Asset/images/22k-gold-b1.jpg",
     "amt": 1599,
     "type": "Bangle",
     "catagory": "Gold",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "22k Gold Bangle",
-    "img": "/Asset/images/earrings.jpg",
+    "img": "Asset/images/earrings.jpg",
     "amt": 1300,
     "type": "Earrings",
     "catagory": "Gold",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Bangle",
-    "img": "/Asset/images/bangle.jpg",
+    "img": "Asset/images/bangle.jpg",
     "amt": 2799,
     "type": "Bangle",
     "catagory": "Gold",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Diamond bangle",
-    "img": "/Asset/images/diamond-bangle.jpg",
+    "img": "Asset/images/diamond-bangle.jpg",
     "amt": 9270,
     "type": "Bangle",
     "catagory": "diamond",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Diamond bangle",
-    "img": "/Asset/images/diamond-bangle1.jpg",
+    "img": "Asset/images/diamond-bangle1.jpg",
     "amt": 12999,
     "type": "Bangle",
     "catagory": "diamond",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "Diamond bangle",
-    "img": "/Asset/images/diamond-bangle.jpg",
+    "img": "Asset/images/diamond-bangle.jpg",
     "amt": 3999,
     "type": "Bangle",
     "catagory": "diamond",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Diamond chain",
-    "img": "/Asset/images/diamond-chain.jpg",
+    "img": "Asset/images/diamond-chain.jpg",
     "amt": 6249,
     "type": "Necklace",
     "catagory": "diamond",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Earrings",
-    "img": "/Asset/images/ear-ring2.jpg",
+    "img": "Asset/images/ear-ring2.jpg",
     "amt": 12799,
     "type": "Earrings",
     "catagory": "Silver",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Earrings",
-    "img": "/Asset/images/ear-ring3.jpg",
+    "img": "Asset/images/ear-ring3.jpg",
     "amt": 12799,
     "type": "Earrings",
     "catagory": "Silver",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Earrings",
-    "img": "/Asset/images/ear-ring4.jpg",
+    "img": "Asset/images/ear-ring4.jpg",
     "amt": 12799,
     "type": "Earrings",
     "catagory": "Silver",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "Earrings",
-    "img": "/Asset/images/ear-ring5.jpg",
+    "img": "Asset/images/ear-ring5.jpg",
     "amt": 12799,
     "type": "Earrings",
     "catagory": "Silver",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "Earrings",
-    "img": "/Asset/images/earrings.jpg",
+    "img": "Asset/images/earrings.jpg",
     "amt": 12799,
     "type": "Earrings",
     "catagory": "Gold",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "Gold bangle",
-    "img": "/Asset/images/gold-bangle.jpg",
+    "img": "Asset/images/gold-bangle.jpg",
     "amt": 12799,
     "type": "Bangle",
     "catagory": "Gold",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "name": "Gold bracelet",
-    "img": "/Asset/images/gold-bracelet.jpg",
+    "img": "Asset/images/gold-bracelet.jpg",
     "amt": 12799,
     "type": "Bracelet",
     "catagory": "Gold",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "name": "Gold bracelet",
-    "img": "/Asset/images/gold-bracelet2.jpg",
+    "img": "Asset/images/gold-bracelet2.jpg",
     "amt": 12799,
     "type": "Bracelet",
     "catagory": "Gold",
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "name": "Gold Necklace",
-    "img": "/Asset/images/gold-necklace.jpg",
+    "img": "Asset/images/gold-necklace.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Gold",
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "name": "Gold Necklace",
-    "img": "/Asset/images/gold-necklace1.jpg",
+    "img": "Asset/images/gold-necklace1.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Gold",
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "name": "Gold Necklace",
-    "img": "/Asset/images/gold-necklace2.jpg",
+    "img": "Asset/images/gold-necklace2.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Gold",
@@ -164,7 +164,7 @@
   {
     "id": 19,
     "name": "Gold Ring",
-    "img": "/Asset/images/gold-ring.jpg",
+    "img": "Asset/images/gold-ring.jpg",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Gold",
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "name": "Gold Ring",
-    "img": "/Asset/images/group-ring.jpg",
+    "img": "Asset/images/group-ring.jpg",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Gold",
@@ -182,7 +182,7 @@
   {
     "id": 21,
     "name": "Gold Necklace",
-    "img": "/Asset/images/long-malai.png",
+    "img": "Asset/images/long-malai.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Gold",
@@ -191,7 +191,7 @@
   {
     "id": 22,
     "name": "Diamond Earrings",
-    "img": "/Asset/images/ear-pieces.jpg",
+    "img": "Asset/images/ear-pieces.jpg",
     "amt": 9799,
     "type": "Earrings",
     "catagory": "diamond",
@@ -200,7 +200,7 @@
   {
     "id": 23,
     "name": "Earring",
-    "img": "/Asset/images/ear-ring1.jpg",
+    "img": "Asset/images/ear-ring1.jpg",
     "amt": 12799,
     "type": "Earrings",
     "catagory": "diamond",
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "name": "Long Necklace",
-    "img": "/Asset/images/long-necklace.jpg",
+    "img": "Asset/images/long-necklace.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Gold",
@@ -218,7 +218,7 @@
   {
     "id": 25,
     "name": "Mens Ring",
-    "img": "/Asset/images/mens-ring.jpg",
+    "img": "Asset/images/mens-ring.jpg",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Gold",
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "name": "Necklace",
-    "img": "/Asset/images/necklace.png",
+    "img": "Asset/images/necklace.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "name": "Necklace",
-    "img": "/Asset/images/necklace1.png",
+    "img": "Asset/images/necklace1.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -245,7 +245,7 @@
   {
     "id": 28,
     "name": "Necklace",
-    "img": "/Asset/images/necklace4.png",
+    "img": "Asset/images/necklace4.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "name": "Necklace",
-    "img": "/Asset/images/necklace3.png",
+    "img": "Asset/images/necklace3.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "name": "Necklace",
-    "img": "/Asset/images/necklace5.png",
+    "img": "Asset/images/necklace5.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -272,7 +272,7 @@
   {
     "id": 31,
     "name": "Necklace",
-    "img": "/Asset/images/necklace7.png",
+    "img": "Asset/images/necklace7.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -281,7 +281,7 @@
   {
     "id": 32,
     "name": "Necklace",
-    "img": "/Asset/images/necklace8.png",
+    "img": "Asset/images/necklace8.png",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -290,7 +290,7 @@
   {
     "id": 33,
     "name": "Pair Ring",
-    "img": "/Asset/images/pair-ring.jpg",
+    "img": "Asset/images/pair-ring.jpg",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Gold",
@@ -299,7 +299,7 @@
   {
     "id": 34,
     "name": "Pearl Malai",
-    "img": "/Asset/images/pearl-malai.jpg",
+    "img": "Asset/images/pearl-malai.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Pearl",
@@ -308,7 +308,7 @@
   {
     "id": 35,
     "name": "Platinum Bracelet",
-    "img": "/Asset/images/platinim1.jpg",
+    "img": "Asset/images/platinim1.jpg",
     "amt": 12799,
     "type": "Bracelet",
     "catagory": "Platinum",
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "name": "Platinum Bracelet",
-    "img": "/Asset/images/platinum-chain.jpg",
+    "img": "Asset/images/platinum-chain.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Platinum",
@@ -326,7 +326,7 @@
   {
     "id": 37,
     "name": "Platinum Chain",
-    "img": "/Asset/images/platinum-necklace.jpg",
+    "img": "Asset/images/platinum-necklace.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Platinum",
@@ -335,7 +335,7 @@
   {
     "id": 38,
     "name": "Platinum Ring",
-    "img": "/Asset/images/platinum-ring.jpg",
+    "img": "Asset/images/platinum-ring.jpg",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Platinum",
@@ -344,7 +344,7 @@
   {
     "id": 39,
     "name": "Platinum Bracelet",
-    "img": "/Asset/images/platinum2.jpg",
+    "img": "Asset/images/platinum2.jpg",
     "amt": 12799,
     "type": "Bracelet",
     "catagory": "Platinum",
@@ -353,7 +353,7 @@
   {
     "id": 40,
     "name": "Gold Ring",
-    "img": "/Asset/images/ring-3.jpg",
+    "img": "Asset/images/ring-3.jpg",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Gold",
@@ -362,7 +362,7 @@
   {
     "id": 41,
     "name": "Gold Ring",
-    "img": "/Asset/images/ring1.png",
+    "img": "Asset/images/ring1.png",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Gold",
@@ -371,7 +371,7 @@
   {
     "id": 42,
     "name": "Gold Rings",
-    "img": "/Asset/images/ring2.png",
+    "img": "Asset/images/ring2.png",
     "amt": 12799,
     "type": "Ring",
     "catagory": "Gold",
@@ -380,7 +380,7 @@
   {
     "id": 43,
     "name": "Silver Anklet",
-    "img": "/Asset/images/silver-anklet.jpg",
+    "img": "Asset/images/silver-anklet.jpg",
     "amt": 12799,
     "type": "Anklet",
     "catagory": "Silver",
@@ -389,7 +389,7 @@
   {
     "id": 44,
     "name": "Silver Bangle",
-    "img": "/Asset/images/silver-bangle.jpg",
+    "img": "Asset/images/silver-bangle.jpg",
     "amt": 12799,
     "type": "Bangle",
     "catagory": "Silver",
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "name": "Silver Bracelet",
-    "img": "/Asset/images/silver-bracelet.jpg",
+    "img": "Asset/images/silver-bracelet.jpg",
     "amt": 12799,
     "type": "Bracelet",
     "catagory": "Silver",
@@ -407,7 +407,7 @@
   {
     "id": 46,
     "name": "Silver Bracelet",
-    "img": "/Asset/images/silver-bracelet1.jpg",
+    "img": "Asset/images/silver-bracelet1.jpg",
     "amt": 12799,
     "type": "Bracelet",
     "catagory": "Silver",
@@ -416,7 +416,7 @@
   {
     "id": 47,
     "name": "Silver Chain",
-    "img": "/Asset/images/silver-chain.jpg",
+    "img": "Asset/images/silver-chain.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Silver",
@@ -425,7 +425,7 @@
   {
     "id": 48,
     "name": "Gold Chain",
-    "img": "/Asset/images/temple jewelery.jpg",
+    "img": "Asset/images/temple jewelery.jpg",
     "amt": 12799,
     "type": "Necklace",
     "catagory": "Gold",
@@ -434,7 +434,7 @@
   {
     "id": 49,
     "name": "Rolex Watch",
-    "img": "/Asset/images/watch.png",
+    "img": "Asset/images/watch.png",
     "amt": 12799,
     "type": "Watch",
     "catagory": "Gold",
@@ -443,7 +443,7 @@
   {
     "id": 50,
     "name": "Gold Watch",
-    "img": "/Asset/images/watch2.png",
+    "img": "Asset/images/watch2.png",
     "amt": 12799,
     "type": "Watch",
     "catagory": "Gold",
@@ -452,7 +452,7 @@
   {
     "id": 51,
     "name": "Gold Watch",
-    "img": "/Asset/images/watch5.png",
+    "img": "Asset/images/watch5.png",
     "amt": 12799,
     "type": "Watch",
     "catagory": "Gold",
@@ -461,7 +461,7 @@
   {
     "id": 52,
     "name": "Gold Watch",
-    "img": "/Asset/images/watch6.png",
+    "img": "Asset/images/watch6.png",
     "amt": 12799,
     "type": "Watch",
     "catagory": "Gold",

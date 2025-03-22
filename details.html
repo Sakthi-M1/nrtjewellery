@@ -4,15 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Product Details</title>
-    <link rel="stylesheet" href="/Asset/css/detail.css" />
-    <link rel="stylesheet" href="/Asset/css/Landing-page.css">
+    <link rel="stylesheet" href="Asset/css/detail.css" />
+    <link rel="stylesheet" href="Asset/css/Landing-page.css">
  
   </head>
   <body>
     <header class="navbar">
       <div class="container-1">
         <div class="logo">
-          <img src="/Asset/images/logo.png" alt="Jewellery Logo">
+          <img src="Asset/images/logo.png" alt="Jewellery Logo">
         </div>
       </div>
       <nav>
@@ -44,7 +44,7 @@
       <footer>
         <div class="footer">
           <div class="footer-column-1">
-            <img src="/Asset/images/logo.png" alt="Jewellery Logo">
+            <img src="Asset/images/logo.png" alt="Jewellery Logo">
           </div>
           <div class="footer-column">
             <h4>Links</h4>
@@ -89,7 +89,7 @@
       
         try {
           // Fetch all products
-          const response = await fetch("/Asset/js/product.json");
+          const response = await fetch("Asset/js/product.json");
           const products = await response.json();
       
           // Find the selected product
@@ -115,6 +115,6 @@
       });
       
   </script>
-    <script src="/Asset/js/detail.js"></script>
+    <script src="Asset/js/detail.js"></script>
   </body>
 </html>

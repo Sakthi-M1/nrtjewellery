@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   try {
     // Fetch all products
-    const response = await fetch("/Asset/js/product.json");
+    const response = await fetch("Asset/js/product.json");
     const products = await response.json();
 
     // Find the selected product
