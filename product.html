@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="/public/Asset/css/style.css" />
+    <link rel="stylesheet" href="/public/Asset/css/Landing-page.css">
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container-1">
+        <div class="logo">
+          <img src="/public/Asset//images/logo.png" alt="Jewellery Logo">
+        </div>
+      </div>
+      <nav>
+        <div class="hamburger">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+        <ul class="nav-links">
+          <li><a href="/Landing-page.html">Home</a></li>
+          <li><a href="/product.html">Products</a></li>
+          <li><a href="/product.html">Services</a></li>
+          <li><a href="/contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <button class="filters-toggle" onclick="togglesidebar()">Filters</button>
+
+    <div class="side-container">
+        <div class="sidebar">
+            <button class="filters-close" onclick="togglesidebar()">&times;</button> 
+            <input type="text" id="txtSearch" placeholder="Search Product..." />
+            <h3>Category</h3>
+            <ul class="category-list"></ul>
+            <h3>Types</h3>
+            <ul class="type-list"></ul>
+            <button class="Apply" onclick="togglesidebar()">Apply</button>
+        </div>
+        <div class="content">
+            <div class="products"></div>
+        </div>
+    </div>
+    
+
+    <footer>
+      <div class="footer">
+        
+
+        <div class="footer-column-1">
+          <img src="/public/Asset//images/logo.png" alt="Jewellery Logo">
+        </div>
+        <div class="footer-column">
+          <h4>Links</h4>
+          <ul>
+            <li><a href="/Landing-page.html">Home</a></li>
+            <li><a href="/product.html">Products</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="/contact.html">Contact us</a></li>
+          </ul>
+        </div>
+        <div class="footer-column">
+          <h4>Customer Policies</h4>
+          <ul>
+            <li><a href="/contact.html">Contact Us</a></li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">T&C</a></li>
+            <li><a href="#">Refund and Cancellation policy</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column contact-info">
+          <h4>Contact Info</h4>
+          <p> 04312700290/+91 8056618807</p>
+          <p>nrtgold@gmail.com</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">Copyright © 2025 All Rights Reserved.</div>
+    </footer>
+
+    <script src="/public/Asset/js/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Details</title>
+    <link rel="stylesheet" href="/public/Asset/css/detail.css" />
+    <link rel="stylesheet" href="/public/Asset/css/Landing-page.css">
+ 
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container-1">
+        <div class="logo">
+          <img src="/public/Asset//images/logo.png" alt="Jewellery Logo">
+        </div>
+      </div>
+      <nav>
+        <div class="hamburger">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+        <ul class="nav-links">
+          <li><a href="/Landing-page.html">Home</a></li>
+          <li><a href="/product.html">Products</a></li>
+          <li><a href="/product.html">Services</a></li>
+          <li><a href="/contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="container">
+        <div id="productImage" class="product-image"></div>
+        <div class="product-details">
+          <h1 id="productName">Product Name</h1>
+          <p class="price" id="productPrice"></p>
+          <p id="productCategory"></p>
+          <p id="productType"></p>
+          <p id="productDescription"></p>
+          <a href="/index.html" class="back-btn">Back to Products</a>
+        </div>
+      </div>
+
+      <footer>
+        <div class="footer">
+          <div class="footer-column-1">
+            <img src="/public/Asset//images/logo.png" alt="Jewellery Logo">
+          </div>
+          <div class="footer-column">
+            <h4>Links</h4>
+            <ul>
+              <li><a href="/Landing-page.html">Home</a></li>
+              <li><a href="/index.html">Products</a></li>
+              <li><a href="#">Services</a></li>
+              <li><a href="/contact.html">Contact us</a></li>
+            </ul>
+          </div>
+          <div class="footer-column">
+            <h4>Customer Policies</h4>
+            <ul>
+              <li><a href="/contact.html">Contact Us</a></li>
+              <li><a href="#">FAQ</a></li>
+              <li><a href="#">T&C</a></li>
+              <li><a href="#">Refund and Cancellation policy</a></li>
+            </ul>
+          </div>
+    
+          <div class="footer-column contact-info">
+            <h4>Contact Info</h4>
+            <p> 04312700290/+91 8056618807</p>
+            <p>nrtgold@gmail.com</p>
+          </div>
+        </div>
+    
+    
+        <div class="footer-bottom">Copyright © 2025 All Rights Reserved.
+        </div>
+      </footer>
+      
+    <script>
+    // Wait for the document to load
+    document.addEventListener("DOMContentLoaded", async () => {
+        const productId = localStorage.getItem("selectedProductId");
+      
+        if (!productId) {
+          document.body.innerHTML = "<h3>No Product Selected</h3>";
+          return;
+        }
+      
+        try {
+          // Fetch all products
+          const response = await fetch("public/Asset/js/product.json");
+          const products = await response.json();
+      
+          // Find the selected product
+          const selectedProduct = products.find(
+            (product) => product.id === parseInt(productId)
+          );
+      
+          if (!selectedProduct) {
+            document.body.innerHTML = "<h3>Product Not Found</h3>";
+            return;
+          }
+      
+          // Populate the product details
+          document.getElementById("productImage").style.backgroundImage = `url(${selectedProduct.img})`;
+          document.getElementById("productName").textContent = selectedProduct.name;
+          document.getElementById("productPrice").textContent = `Price: Rs.${selectedProduct.amt}`;
+          document.getElementById("productCategory").textContent = `Category: ${selectedProduct.catagory}`;
+          document.getElementById("productType").textContent = `Type: ${selectedProduct.type}`;
+        } catch (error) {
+          console.error("Error loading product details:", error);
+          document.body.innerHTML = "<h3>Error Loading Product Details</h3>";
+        }
+      });
+      
+  </script>
+    <script src="/public/Asset/js/detail.js"></script>
+  </body>
+</html>

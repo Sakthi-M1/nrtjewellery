@@ -1,0 +1,144 @@
+/* General styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4e4c1; /* Sandal color background */
+    color: #333;
+  }
+  
+  .contact-page {
+    padding: 20px;
+  }
+  
+  .container-contact {
+    max-width: 100%;
+    margin-top: 5%;
+    display: flex
+;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}  
+  h2 {
+    font-size: 24px;
+    color: #874c36; /* Deep brown for titles */
+  }
+  
+  h3 {
+    color: #c04c3a; /* Dark red for accents */
+    margin-top: 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #874c36;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .link {
+    font-weight: bold;
+    color: #c04c3a;
+  }
+  
+  /* Address section */
+  .address-section {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Form section */
+  .form-section {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 46%;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-group {
+    display: flex;
+    gap: 10px;
+  }
+  
+  input, textarea {
+    width: 96%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #874c36;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #c04c3a;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .container {
+      grid-template-columns: 1fr;
+    }
+
+    .form-section {
+      width: 100%;
+    }
+  }
+  
+  .address-section {
+    display: flex; /* Use flexbox to align children side by side */
+    flex-direction: row; /* Horizontal alignment */
+    gap: 20px; /* Space between address and bank content */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 46%;
+  }
+  
+  .address-content, 
+  .bank-content {
+    flex: 1; /* Allow each content block to take equal space */
+  }
+  
+  .address-content {
+    margin-right: 10px; /* Optional spacing for clarity */
+  }
+  
+  .bank-content {
+    margin-left: 10px;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .address-section {
+      flex-direction: column; /* Stack content vertically on smaller screens */
+    }
+  }
+  

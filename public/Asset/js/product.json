@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "name": "22k Gold Bangle",
+    "img": "/public/Asset/images/22k-gold-b1.jpg",
+    "amt": 1599,
+    "type": "Bangle",
+    "catagory": "Gold",
+    "description": "A stunning 22k gold bangle, perfect for adding elegance to your traditional attire."
+  },
+  {
+    "id": 2,
+    "name": "22k Gold Bangle",
+    "img": "/public/Asset/images/earrings.jpg",
+    "amt": 1300,
+    "type": "Earrings",
+    "catagory": "Gold",
+    "description": "Elegant 22k gold earrings, designed to complement your style with a touch of luxury."
+  },
+  {
+    "id": 3,
+    "name": "Bangle",
+    "img": "/public/Asset/images/bangle.jpg",
+    "amt": 2799,
+    "type": "Bangle",
+    "catagory": "Gold",
+    "description": "A classic gold bangle, crafted to perfection for a timeless look."
+  },
+  {
+    "id": 4,
+    "name": "Diamond bangle",
+    "img": "/public/Asset/images/diamond-bangle.jpg",
+    "amt": 9270,
+    "type": "Bangle",
+    "catagory": "diamond",
+    "description": "A luxurious diamond-studded bangle, combining gold and diamonds for a dazzling effect."
+  },
+  {
+    "id": 5,
+    "name": "Diamond bangle",
+    "img": "/public/Asset/images/diamond-bangle1.jpg",
+    "amt": 12999,
+    "type": "Bangle",
+    "catagory": "diamond",
+    "description": "A high-end diamond bangle, perfect for making a statement at any special occasion."
+  },
+  {
+    "id": 6,
+    "name": "Diamond bangle",
+    "img": "/public/Asset/images/diamond-bangle.jpg",
+    "amt": 3999,
+    "type": "Bangle",
+    "catagory": "diamond",
+    "description": "A beautifully designed diamond bangle, offering a blend of sophistication and charm."
+  },
+  {
+    "id": 7,
+    "name": "Diamond chain",
+    "img": "/public/Asset/images/diamond-chain.jpg",
+    "amt": 6249,
+    "type": "Necklace",
+    "catagory": "diamond",
+    "description": "A dazzling diamond chain, perfect for adding sparkle to your neckline."
+  },
+  {
+    "id": 8,
+    "name": "Earrings",
+    "img": "/public/Asset/images/ear-ring2.jpg",
+    "amt": 12799,
+    "type": "Earrings",
+    "catagory": "Silver",
+    "description": "Elegant silver earrings, designed to enhance your everyday look."
+  },
+  {
+    "id": 9,
+    "name": "Earrings",
+    "img": "/public/Asset/images/ear-ring3.jpg",
+    "amt": 12799,
+    "type": "Earrings",
+    "catagory": "Silver",
+    "description": "Stylish silver earrings, perfect for both casual and formal occasions."
+  },
+  {
+    "id": 10,
+    "name": "Earrings",
+    "img": "/public/Asset/images/ear-ring4.jpg",
+    "amt": 12799,
+    "type": "Earrings",
+    "catagory": "Silver",
+    "description": "Chic silver earrings, adding a touch of sophistication to your ensemble."
+  },
+  {
+    "id": 11,
+    "name": "Earrings",
+    "img": "/public/Asset/images/ear-ring5.jpg",
+    "amt": 12799,
+    "type": "Earrings",
+    "catagory": "Silver",
+    "description": "Minimalist silver earrings, ideal for a subtle yet elegant look."
+  },
+  {
+    "id": 12,
+    "name": "Earrings",
+    "img": "/public/Asset/images/earrings.jpg",
+    "amt": 12799,
+    "type": "Earrings",
+    "catagory": "Gold",
+    "description": "Exquisite gold earrings, crafted to add a touch of glamour to your outfit."
+  },
+  {
+    "id": 13,
+    "name": "Gold bangle",
+    "img": "/public/Asset/images/gold-bangle.jpg",
+    "amt": 12799,
+    "type": "Bangle",
+    "catagory": "Gold",
+    "description": "A timeless gold bangle, perfect for traditional and modern looks alike."
+  },
+  {
+    "id": 14,
+    "name": "Gold bracelet",
+    "img": "/public/Asset/images/gold-bracelet.jpg",
+    "amt": 12799,
+    "type": "Bracelet",
+    "catagory": "Gold",
+    "description": "A luxurious gold bracelet, designed to make a bold statement."
+  },
+  {
+    "id": 15,
+    "name": "Gold bracelet",
+    "img": "/public/Asset/images/gold-bracelet2.jpg",
+    "amt": 12799,
+    "type": "Bracelet",
+    "catagory": "Gold",
+    "description": "A sleek gold bracelet, perfect for adding elegance to your wrist."
+  },
+  {
+    "id": 16,
+    "name": "Gold Necklace",
+    "img": "/public/Asset/images/gold-necklace.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Gold",
+    "description": "A stunning gold necklace, ideal for enhancing your traditional attire."
+  },
+  {
+    "id": 17,
+    "name": "Gold Necklace",
+    "img": "/public/Asset/images/gold-necklace1.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Gold",
+    "description": "A beautifully crafted gold necklace, perfect for special occasions."
+  },
+  {
+    "id": 18,
+    "name": "Gold Necklace",
+    "img": "/public/Asset/images/gold-necklace2.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Gold",
+    "description": "An elegant gold necklace, designed to add a touch of luxury to your look."
+  },
+  {
+    "id": 19,
+    "name": "Gold Ring",
+    "img": "/public/Asset/images/gold-ring.jpg",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Gold",
+    "description": "A classic gold ring, perfect for everyday wear or special occasions."
+  },
+  {
+    "id": 20,
+    "name": "Gold Ring",
+    "img": "/public/Asset/images/group-ring.jpg",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Gold",
+    "description": "A set of gold rings, ideal for adding a touch of elegance to your fingers."
+  },
+  {
+    "id": 21,
+    "name": "Gold Necklace",
+    "img": "/public/Asset/images/long-malai.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Gold",
+    "description": "A long gold necklace, perfect for traditional and festive occasions."
+  },
+  {
+    "id": 22,
+    "name": "Diamond Earrings",
+    "img": "/public/Asset/images/ear-pieces.jpg",
+    "amt": 9799,
+    "type": "Earrings",
+    "catagory": "diamond",
+    "description": "Exquisite diamond earrings, designed to add sparkle to your look."
+  },
+  {
+    "id": 23,
+    "name": "Earring",
+    "img": "/public/Asset/images/ear-ring1.jpg",
+    "amt": 12799,
+    "type": "Earrings",
+    "catagory": "diamond",
+    "description": "A pair of diamond earrings, perfect for adding glamour to any outfit."
+  },
+  {
+    "id": 24,
+    "name": "Long Necklace",
+    "img": "/public/Asset/images/long-necklace.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Gold",
+    "description": "A long and elegant gold necklace, ideal for traditional events."
+  },
+  {
+    "id": 25,
+    "name": "Mens Ring",
+    "img": "/public/Asset/images/mens-ring.jpg",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Gold",
+    "description": "A stylish gold ring for men, perfect for adding a touch of sophistication."
+  },
+  {
+    "id": 26,
+    "name": "Necklace",
+    "img": "/public/Asset/images/necklace.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A beautiful silver necklace, designed to enhance your elegance."
+  },
+  {
+    "id": 27,
+    "name": "Necklace",
+    "img": "/public/Asset/images/necklace1.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A chic silver necklace, perfect for both casual and formal wear."
+  },
+  {
+    "id": 28,
+    "name": "Necklace",
+    "img": "/public/Asset/images/necklace4.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A stunning silver necklace, ideal for adding a touch of glamour."
+  },
+  {
+    "id": 29,
+    "name": "Necklace",
+    "img": "/public/Asset/images/necklace3.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A delicate silver necklace, perfect for everyday elegance."
+  },
+  {
+    "id": 30,
+    "name": "Necklace",
+    "img": "/public/Asset/images/necklace5.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A unique silver necklace, designed to make a statement."
+  },
+  {
+    "id": 31,
+    "name": "Necklace",
+    "img": "/public/Asset/images/necklace7.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A sophisticated silver necklace, perfect for special occasions."
+  },
+  {
+    "id": 32,
+    "name": "Necklace",
+    "img": "/public/Asset/images/necklace8.png",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A timeless silver necklace, ideal for enhancing your style."
+  },
+  {
+    "id": 33,
+    "name": "Pair Ring",
+    "img": "/public/Asset/images/pair-ring.jpg",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Gold",
+    "description": "A pair of gold rings, perfect for couples or as a gift."
+  },
+  {
+    "id": 34,
+    "name": "Pearl Malai",
+    "img": "/public/Asset/images/pearl-malai.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Pearl",
+    "description": "A luxurious pearl necklace, ideal for traditional and festive occasions."
+  },
+  {
+    "id": 35,
+    "name": "Platinum Bracelet",
+    "img": "/public/Asset/images/platinim1.jpg",
+    "amt": 12799,
+    "type": "Bracelet",
+    "catagory": "Platinum",
+    "description": "A sleek platinum bracelet, perfect for adding a modern touch."
+  },
+  {
+    "id": 36,
+    "name": "Platinum Bracelet",
+    "img": "/public/Asset/images/platinum-chain.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Platinum",
+    "description": "A stunning platinum chain, designed for a sophisticated look."
+  },
+  {
+    "id": 37,
+    "name": "Platinum Chain",
+    "img": "/public/Asset/images/platinum-necklace.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Platinum",
+    "description": "A luxurious platinum necklace, perfect for special occasions."
+  },
+  {
+    "id": 38,
+    "name": "Platinum Ring",
+    "img": "/public/Asset/images/platinum-ring.jpg",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Platinum",
+    "description": "A sleek platinum ring, ideal for modern and elegant styling."
+  },
+  {
+    "id": 39,
+    "name": "Platinum Bracelet",
+    "img": "/public/Asset/images/platinum2.jpg",
+    "amt": 12799,
+    "type": "Bracelet",
+    "catagory": "Platinum",
+    "description": "A stylish platinum bracelet, perfect for adding a touch of luxury."
+  },
+  {
+    "id": 40,
+    "name": "Gold Ring",
+    "img": "/public/Asset/images/ring-3.jpg",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Gold",
+    "description": "A classic gold ring, designed for timeless elegance."
+  },
+  {
+    "id": 41,
+    "name": "Gold Ring",
+    "img": "/public/Asset/images/ring1.png",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Gold",
+    "description": "A beautifully crafted gold ring, perfect for any occasion."
+  },
+  {
+    "id": 42,
+    "name": "Gold Rings",
+    "img": "/public/Asset/images/ring2.png",
+    "amt": 12799,
+    "type": "Ring",
+    "catagory": "Gold",
+    "description": "A set of gold rings, ideal for adding elegance to your fingers."
+  },
+  {
+    "id": 43,
+    "name": "Silver Anklet",
+    "img": "/public/Asset/images/silver-anklet.jpg",
+    "amt": 12799,
+    "type": "Anklet",
+    "catagory": "Silver",
+    "description": "A delicate silver anklet, perfect for adding charm to your feet."
+  },
+  {
+    "id": 44,
+    "name": "Silver Bangle",
+    "img": "/public/Asset/images/silver-bangle.jpg",
+    "amt": 12799,
+    "type": "Bangle",
+    "catagory": "Silver",
+    "description": "A sleek silver bangle, ideal for a minimalist and elegant look."
+  },
+  {
+    "id": 45,
+    "name": "Silver Bracelet",
+    "img": "/public/Asset/images/silver-bracelet.jpg",
+    "amt": 12799,
+    "type": "Bracelet",
+    "catagory": "Silver",
+    "description": "A stylish silver bracelet, perfect for everyday wear."
+  },
+  {
+    "id": 46,
+    "name": "Silver Bracelet",
+    "img": "/public/Asset/images/silver-bracelet1.jpg",
+    "amt": 12799,
+    "type": "Bracelet",
+    "catagory": "Silver",
+    "description": "A chic silver bracelet, designed to add a touch of elegance."
+  },
+  {
+    "id": 47,
+    "name": "Silver Chain",
+    "img": "/public/Asset/images/silver-chain.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Silver",
+    "description": "A simple yet elegant silver chain, perfect for any occasion."
+  },
+  {
+    "id": 48,
+    "name": "Gold Chain",
+    "img": "/public/Asset/images/temple jewelery.jpg",
+    "amt": 12799,
+    "type": "Necklace",
+    "catagory": "Gold",
+    "description": "A traditional gold chain, ideal for temple jewelry and festive occasions."
+  },
+  {
+    "id": 49,
+    "name": "Rolex Watch",
+    "img": "/public/Asset/images/watch.png",
+    "amt": 12799,
+    "type": "Watch",
+    "catagory": "Gold",
+    "description": "A luxurious Rolex watch, combining style and functionality."
+  },
+  {
+    "id": 50,
+    "name": "Gold Watch",
+    "img": "/public/Asset/images/watch2.png",
+    "amt": 12799,
+    "type": "Watch",
+    "catagory": "Gold",
+    "description": "A sleek gold watch, perfect for adding a touch of elegance to your wrist."
+  },
+  {
+    "id": 51,
+    "name": "Gold Watch",
+    "img": "/public/Asset/images/watch5.png",
+    "amt": 12799,
+    "type": "Watch",
+    "catagory": "Gold",
+    "description": "A stylish gold watch, designed for modern and sophisticated looks."
+  },
+  {
+    "id": 52,
+    "name": "Gold Watch",
+    "img": "/public/Asset/images/watch6.png",
+    "amt": 12799,
+    "type": "Watch",
+    "catagory": "Gold",
+    "description": "A classic gold watch, perfect for everyday elegance."
+  }
+]
